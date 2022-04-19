@@ -1,0 +1,211 @@
+body {
+  background-color: #f2f5f9;
+  font-family: "Inter", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+h3 {
+  font-size: 20px !important;
+  font-weight: bold !important;
+  margin: 0;
+}
+
+h4 {
+  font-size: 18px !important;
+  font-weight: bold !important;
+  margin: 0;
+}
+
+h1 {
+  font-weight: bold !important;
+  margin: 0;
+}
+
+h2 {
+  font-weight: bold !important;
+  margin: 0;
+}
+
+h5 {
+  font-size: 18px !important;
+  margin: 0;
+}
+
+p {
+  font-size: 14px !important;
+}
+
+.navigation {
+  background-color: white;
+  padding: 0;
+  margin: 0;
+  box-shadow: 0px 1px 20px #0000000d;
+  height: 96px;
+  margin-bottom: 55px;
+}
+.navigation-main_left__logo h4 {
+  margin: 0;
+  padding: 0;
+  margin-left: 34px;
+}
+.navigation-main_right {
+  padding-right: 15px;
+}
+.navigation-main_right__text {
+  background-color: #439a46;
+  padding-right: 30%;
+  color: white;
+  border-radius: 8px 0px 0px 8px;
+  height: 48px;
+}
+.navigation-main_right__img {
+  border: 2px solid white;
+  border-radius: 100%;
+  position: relative;
+  right: 30px;
+}
+
+table {
+  font-size: 18px;
+}
+table th {
+  width: 100%;
+}
+table tr {
+  margin-bottom: 20px;
+}
+table tr td {
+  color: #707070;
+  padding: 0;
+}
+
+.body-content_face__table .table {
+  vertical-align: middle;
+}
+.body-content_face__table .table tr {
+  height: 72px;
+}
+.body-content_face__table .table tr th {
+  width: 70%;
+  padding-left: 36px;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: #439a46;
+}
+
+.body-content_camera__text {
+  border-left: 7px solid #439a46;
+  border-radius: 4px;
+  height: 48px;
+  font-size: 20px;
+  background: transparent linear-gradient(102deg, #e8f5e9 0%, #f2f5f9 100%) 0% 0% no-repeat padding-box;
+  padding-right: 0;
+  margin-bottom: 24px;
+}
+.body-content_camera__image {
+  background: transparent 0% 0% no-repeat padding-box;
+}
+.body-content_notification_text {
+  border-left: 7px solid #439a46;
+  border-radius: 4px;
+  height: 48px;
+  font-size: 20px;
+  background: transparent linear-gradient(102deg, #e8f5e9 0%, #f2f5f9 100%) 0% 0% no-repeat padding-box;
+  margin-bottom: 24px;
+}
+.body-content_notification_text a {
+  background-color: #e8f5e9;
+  color: #439a46;
+  height: 48px;
+  width: 160px;
+  font-size: 18px;
+}
+.body-content_notification__content {
+  background-color: #ffff;
+  border-radius: 8px;
+  max-height: 611px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  padding: 8px 32px 32px 32px;
+  overflow-y: scroll;
+}
+.body-content_notification__content___number {
+  padding-top: 24px;
+  padding-bottom: 24px;
+  border-bottom: 1px solid #f2f5f9;
+  max-width: 100%;
+  height: auto;
+}
+.body-content_notification__content___number--icon {
+  margin-right: 20px;
+  display: flex;
+  align-items: flex-start;
+}
+.body-content_notification__content___number--text {
+  margin-top: 7px;
+}
+.body-content_notification__content___number--text_details h5 {
+  margin-top: 18px;
+  color: #707070;
+}
+.body-content_notification__content___number--text_details .time {
+  margin-left: 32px;
+}
+.body-content_notification__content #not-last {
+  border-bottom: none;
+}
+.body-content_face__text {
+  border-left: 7px solid #439a46;
+  border-radius: 4px;
+  height: 48px;
+  font-size: 20px;
+  background: transparent linear-gradient(102deg, #e8f5e9 0%, #f2f5f9 100%) 0% 0% no-repeat padding-box;
+  padding-right: 0;
+  margin-bottom: 24px;
+}
+.body-content_face__image {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 5px 17px #00000012;
+}
+.body-content_face__image__date-left .nav .nav-item .nav-link {
+  color: black;
+  border: 0.1px solid #70707033;
+  border-radius: 0;
+}
+.body-content_face__image__date-left .nav .nav-item .active {
+  color: #ffffff;
+  background-color: #439a46;
+}
+.body-content_face__image__date-right .input-group-text {
+  background-color: #ffffff;
+  border-right: none;
+}
+.body-content_face__image__date-right .input-group select {
+  border-left: 0;
+}
+.body-content_pi {
+  background-color: #ffffff;
+  padding: 31px 36px;
+  height: 288px;
+}
+.body-content_pi___data {
+  border: 1px solid #70707033;
+  border-radius: 8px;
+  height: 228px;
+}
+.body-content_pi___data h3 {
+  font-size: 16px !important;
+  font-weight: bold !important;
+}
+.body-content_pi___data-pi {
+  border-right: 1px solid #70707033;
+}
+
+/*# sourceMappingURL=style.css.map */

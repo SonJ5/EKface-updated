@@ -1,0 +1,44 @@
+// FOR THE COMMON CSS THROUGHOUT THE PROJECT
+
+// * {
+//   padding: 0;
+//   margin: 0;
+// }
+body {
+  background-color: #f2f5f9;
+  font-family: "Inter", sans-serif;
+}
+a {
+  text-decoration: none;
+}
+h3 {
+  font-size: 20px !important;
+  font-weight: bold !important;
+  margin: 0;
+}
+h4 {
+  font-size: 18px !important;
+  font-weight: bold !important;
+  margin: 0;
+}
+h1 {
+  font-weight: bold !important;
+  margin: 0;
+}
+h2 {
+  font-weight: bold !important;
+  margin: 0;
+}
+h5 {
+  font-size: 18px !important;
+  margin: 0;
+}
+p {
+  font-size: 14px !important;
+}
+//   font-size: $base-font;
+//   color: $base-font-color;
+//   font-weight: $font-normal;
+//   font-family: $font-family;
+//   overflow-x: hidden;
+// }
